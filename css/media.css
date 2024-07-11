@@ -1,0 +1,27 @@
+@media (width<=992px) {
+  .ht-head {
+    margin-top: 1rem;
+  }
+
+  .banner h1 {
+    font-size: 2rem;
+  }
+
+  .book-a-tour p {
+    width: 90%;
+    line-height: 1.6;
+    margin: 1.5rem auto;
+  }
+
+  .info-box {
+    margin: 1.25rem 0;
+  }
+
+  .blog .row .col-lg-6 {
+    margin-top: 1.5rem;
+  }
+
+  footer ul{
+    padding-left: 0;
+  }
+}
