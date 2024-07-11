@@ -258,3 +258,7 @@ footer ul li a:hover {
   margin-bottom: 0;
   color: #fff;
 }
+
+footer ul {
+  padding-left: 0;
+}
